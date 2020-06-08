@@ -13,7 +13,15 @@ App uses the location service from your device and get data from https://www.wea
   - provider: 4.1.3
   
 ## API
-Get your own api key from https://www.weatherapi.com/ and paste it inside all the file of lib/Provider/. Paste the api key in a variable below the comments. See file yourself.
+Get your own api key from https://www.weatherapi.com/ and paste it inside all the file of lib/Provider/. Paste the api key in a variable below the comments(See file yourself).
+
+## Features
+
+ - Realtime Weather Data
+ - upto 3 day forecast
+ - Search any city to show weather data
+ - Beautiful & Minimal UI
+ - Request for location permission
 
 
 ## Screenshots
